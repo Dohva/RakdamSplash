@@ -43,4 +43,4 @@ jobs:
           # Repository name to push. Default or empty value represents current github repository (${GITHUB_REPOSITORY})
           repository: dohva/action
           # Destination branch to push changes
-          branch: master
+          branch: main
