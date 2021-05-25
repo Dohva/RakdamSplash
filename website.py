@@ -3,16 +3,16 @@
 from splashgen import launch
 from splashgen.components import SplashSite, CTAButton
 
-site = SplashSite(title="Splashgen - Splash Pages Built In Python",
+site = SplashSite(title="Integrating CI via Github Actions",
                   theme="dark")
 site.enable_splashgen_analytics = False
-site.headline = "Build your splash page in python effortlessly"
+site.headline = "Never run a console command again."
 site.subtext = """
-In less than 20 lines of python, create clean and beautiful splash pages with
-Splashgen. Don't waste time with no-code tools when you already know how to
-code.
+Just build it in the cloud. It's easy. Automate everything and anything.
+This is python, but it'll work for nearly all languages you'll use.
+It's just good practice :-)
 """
 site.call_to_action = CTAButton(
-    "https://github.com/true3dco/splashgen", "View on GitHub")
+    "https://github.com/Dohva/RakdamSplash", "View on GitHub")
 
 launch(site)
