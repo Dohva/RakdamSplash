@@ -3,7 +3,7 @@ chardet==4.0.0
 click==8.0.1
 colorama==0.4.4
 filelock==3.0.12
-idna==2.10
+idna==3.1
 Jinja2==3.0.1
 lxml==4.6.3
 MarkupSafe==2.0.1
@@ -16,7 +16,7 @@ query-string==2020.12.3
 requests==2.25.1
 requests-file==1.5.1
 six==1.16.0
-splashgen==0.0.24
+splashgen==0.0.26
 tldextract==3.1.0
 tqdm==4.60.0
 unshortenit==0.4.0
