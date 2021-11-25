@@ -1,4 +1,7 @@
 # RakdamSplash
+See the results at 
+[RakdamSplash](https://dohva.github.io/RakdamSplash/)
+
 ## Introduction
 The purpose of this repo was getting some experience with github actions and CI pipelines. 
 I originally saw a reddit post which outlined the SplashGen library, and then immediately realised it could be used for this purpose.
